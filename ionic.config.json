@@ -1,0 +1,7 @@
+{
+  "name": "SoesmanApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
